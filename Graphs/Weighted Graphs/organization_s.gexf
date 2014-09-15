@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="Kathy" label="Kathy" />
+      <node id="Sharon" label="Sharon" />
+      <node id="Harold" label="Harold" />
+      <node id="Wynn" label="Wynn" />
+      <node id="Susan" label="Susan" />
+      <node id="Charles" label="Charles" />
+      <node id="Fred" label="Fred" />
+      <node id="Tanya" label="Tanya" />
+      <node id="Donna" label="Donna" />
+      <node id="Nancy" label="Nancy" />
+      <node id="Stuart" label="Stuart" />
+      <node id="Manuel" label="Manuel" />
+      <node id="Bob" label="Bob" />
+      <node id="Carol" label="Carol" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Kathy" target="Donna" weight="None" />
+      <edge id="1" source="Kathy" target="Nancy" weight="None" />
+      <edge id="2" source="Sharon" target="Stuart" weight="None" />
+      <edge id="3" source="Harold" target="Charles" weight="None" />
+      <edge id="4" source="Wynn" target="Charles" weight="None" />
+      <edge id="5" source="Susan" target="Donna" weight="None" />
+      <edge id="6" source="Charles" target="Manuel" weight="None" />
+      <edge id="7" source="Charles" target="Nancy" weight="None" />
+      <edge id="8" source="Charles" target="Stuart" weight="None" />
+      <edge id="9" source="Fred" target="Stuart" weight="None" />
+      <edge id="10" source="Tanya" target="Donna" weight="None" />
+      <edge id="11" source="Tanya" target="Nancy" weight="None" />
+      <edge id="12" source="Donna" target="Manuel" weight="None" />
+      <edge id="13" source="Donna" target="Nancy" weight="None" />
+      <edge id="14" source="Stuart" target="Manuel" weight="None" />
+      <edge id="15" source="Stuart" target="Charles" weight="None" />
+      <edge id="16" source="Stuart" target="Nancy" weight="None" />
+      <edge id="17" source="Manuel" target="Nancy" weight="None" />
+      <edge id="18" source="Bob" target="Sharon" weight="None" />
+      <edge id="19" source="Bob" target="Stuart" weight="None" />
+      <edge id="20" source="Bob" target="Fred" weight="None" />
+      <edge id="21" source="Carol" target="Charles" weight="None" />
+    </edges>
+  </graph>
+</gexf>
