@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {I}Intended Audience}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {II}The Genizah Documents}{1}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {II.1}Big Data Characteristic: Size}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {II.2}Big Data Characteristic: Content}{2}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {II.3}Big Data Characteristic: Reuse}{2}{subsubsection.1.2.3}
+\contentsline {subsection}{\numberline {III}Graphing}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {IV}General Theory}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {V}Applications in Social Networks}{3}{subsection.1.5}
+\contentsline {subsection}{\numberline {VI}Graph Drawing Algorithms}{3}{subsection.1.6}
+\contentsline {subsection}{\numberline {VII}Path Length}{4}{subsection.1.7}
+\contentsline {subsection}{\numberline {VIII}Bipartite Graphs}{4}{subsection.1.8}
+\contentsline {section}{\numberline {II}Methods}{5}{section.2}
+\contentsline {subsection}{\numberline {I}Choice in Digital Library}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {II}Data Collection}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {III}Repeating Names}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {IV}Complete Communication Network Graph}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {V}Bipartite Graph with Correlation between Language and Keywords}{6}{subsection.2.5}
+\contentsline {section}{\numberline {III}Results}{8}{section.3}
+\contentsline {section}{\numberline {IV}Analysis}{11}{section.4}
+\contentsline {subsection}{\numberline {I}Regarding Full Network Graph}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {II}Regarding Bipartite Graph with Correlation between Language and Keywords}{11}{subsection.4.2}

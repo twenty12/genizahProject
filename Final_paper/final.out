@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Intended Audience}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{The Genizah Documents}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Big Data Characteristic: Size}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Big Data Characteristic: Content}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Big Data Characteristic: Reuse}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Graphing}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.4}{General Theory}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.5}{Applications in Social Networks}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.6}{Graph Drawing Algorithms}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.7}{Path Length}{section.1}% 11
+\BOOKMARK [2][-]{subsection.1.8}{Bipartite Graphs}{section.1}% 12
+\BOOKMARK [1][-]{section.2}{Methods}{}% 13
+\BOOKMARK [2][-]{subsection.2.1}{Choice in Digital Library}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.2}{Data Collection}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.3}{Repeating Names}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.4}{Complete Communication Network Graph}{section.2}% 17
+\BOOKMARK [2][-]{subsection.2.5}{Bipartite Graph with Correlation between Language and Keywords}{section.2}% 18
+\BOOKMARK [1][-]{section.3}{Results}{}% 19
+\BOOKMARK [1][-]{section.4}{Analysis}{}% 20
+\BOOKMARK [2][-]{subsection.4.1}{Regarding Full Network Graph}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.2}{Regarding Bipartite Graph with Correlation between Language and Keywords}{section.4}% 22
